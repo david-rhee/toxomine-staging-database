@@ -1,0 +1,5 @@
+# Base Dependencies
+Django>=1.8,<1.8.99
+django-braces
+psycopg2
+pyyaml
